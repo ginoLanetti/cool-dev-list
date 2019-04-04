@@ -1,6 +1,7 @@
 ## Developers cool url list
 
 ### Tutorials
+https://egghead.io/lessons/bash-copy-an-ssh-key-to-a-remote-server-using-ssh-copy-id - ssh remote server authentication
 
 http://tutorials.codebar.io/ - few beginners tutorial about html, js, ruby, python
 
